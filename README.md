@@ -17,7 +17,7 @@ I'm always open to collaborating on projects or just to chat about tech. Feel fr
 - 📧 Email: [email](mailto:ro5112@hotmail.com)
 - 💼 LinkedIn: [Jazz]([https://www.linkedin.com/in/jazz/](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzpujols34)](https://github.com/anuraghazra/github-readme-stats)
+[![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzpujols34&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks for stopping by! 😊
