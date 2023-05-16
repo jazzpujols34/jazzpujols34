@@ -19,7 +19,7 @@ I'm always open to collaborating on projects or just to chat about tech. Feel fr
 
 [![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzpujols34&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzpujols34&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzpujols34&size_weight=0.5&count_weight=0.5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks for stopping by! 😊
