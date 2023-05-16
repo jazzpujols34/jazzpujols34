@@ -11,7 +11,7 @@ I'm currently preparing for the AI-102 certification to further enhance my AI sk
 I'm always on the lookout for new technologies and tools to learn. 📈
 
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,py,js,css,html,flask,docker,kubernetes,jenkins,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,js,css,html,py,flask,linux&perline=3)](https://skillicons.dev)
 
 - 📧 Email: [email](mailto:ro5112@hotmail.com)
 - 💼 LinkedIn: [Jazz]([https://www.linkedin.com/in/jazz/](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/))
