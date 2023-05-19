@@ -11,7 +11,7 @@ I'm currently preparing for the AI-102 certification to further enhance my AI sk
 I'm always on the lookout for new technologies and tools to learn. 📈
 
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,js,css,html,py,flask,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,py,flask,linux,js,css,html&perline=3)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jazzpujols34&theme=tokyonight)](https://git.io/streak-stats)
 
