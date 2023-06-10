@@ -8,6 +8,8 @@ I believe in continuous learning and improvement.
 
 I'm currently preparing for the AI-102 certification to further enhance my AI skills. 
 
+And AZ-104 for expanding my knowledge on Azure cloud.
+
 I'm always on the lookout for new technologies and tools to learn. 📈
 
 ## Language and Tools
