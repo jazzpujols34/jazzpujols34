@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Jazz Lien! 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I am Jazz!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+there!+I+am+Jazz+Lien;Simplicity+is+the+soul+of+efficiency+.)](https://git.io/typing-svg)
 
 I'm a Cloud Support Engineer specializing in Azure, AI solutions.
 
