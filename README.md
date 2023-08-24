@@ -7,7 +7,7 @@ I'm a Cloud Support Engineer specializing in Azure, AI solutions.
 
 I believe in continuous learning and improvement. 
 
-I'm currently preparing for the `Microsoft Certified: Azure Data Engineer Associate` certification to further enhance my skills as a developer. 
+I'm currently preparing for the `DP-203: Azure Data Engineer Associate` certification to further enhance my skills as a developer. 
 
 I'm always on the lookout for new technologies and tools to learn. 📈
 
