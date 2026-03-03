@@ -10,9 +10,9 @@ I build AI-powered products and ship them.
 
 ## About
 
-Foreign languages graduate turned cloud solutions architect turned indie maker. Spent years helping enterprises adopt GCP, then realized I'd rather build products than advise on them. Now I ship AI-powered tools — from video generation to podcast intelligence — end to end.
+Foreign languages graduate turned cloud solutions architect turned indie maker. Spent years helping enterprises adopt GCP, then equipped myself with AI tools and knowledge and build products stuck in my head for a lont time. Now I ship AI-powered tools — from video generation to podcast intelligence — end to end.
 
-Open to product engineering roles and collaborations on AI tooling.
+Open to product engineering, training roles and collaborations on AI tooling.
 
 ---
 
@@ -20,7 +20,7 @@ Open to product engineering roles and collaborations on AI tooling.
 
 ### [拾光 Glimmer](https://glimmer.video/) — AI Memorial Videos
 
-Upload photos, pick a theme, get a cinematic video with music. Pay-per-use credits via ECPay.
+Upload photos, pick a theme, get a cinematic video with music. Pay-per-use credits or project-based collaboration via ECPay.
 
 Technical highlights:
 - Client-driven polling for Cloudflare Edge, where background tasks die after 30s — enables reliable 2–3 min video generation on a serverless platform
@@ -49,11 +49,11 @@ Spaced repetition vocabulary builder with 1,000+ words and root-based decoding. 
 
 ## Stack
 
-**Languages:** TypeScript, Python
-**Frontend:** React, Next.js, React Native, Tailwind CSS
-**Backend:** FastAPI, Node.js, SQLite, Firestore
-**AI:** Claude API, Google Gemini, Whisper, BytePlus Seedance
-**Deploy:** Cloudflare Pages, Vercel, Google Cloud Run, Expo
+- **Languages:** TypeScript, Python
+- **Frontend:** React, Next.js, React Native, Tailwind CSS
+- **Backend:** FastAPI, Node.js, SQLite, Firestore
+- **AI:** Claude API, Google Gemini, Whisper, BytePlus Seedance
+- **Deploy:** Cloudflare Pages, Vercel, Google Cloud Run, Expo
 
 ---
 
