@@ -23,9 +23,9 @@ Open to product engineering roles and collaborations on AI tooling.
 Upload photos, pick a theme, get a cinematic video with music. Pay-per-use credits via ECPay.
 
 Technical highlights:
-- Client-driven polling architecture for Cloudflare Edge, where background tasks die after 30s
-- FFmpeg WASM for in-browser video export with chunked processing to stay within memory limits
-- Unified abstraction across 3 AI video providers with completely different schemas
+- Client-driven polling for Cloudflare Edge, where background tasks die after 30s — enables reliable 2–3 min video generation on a serverless platform
+- FFmpeg WASM for in-browser video export with chunked processing — no server upload needed, works on any device
+- Unified abstraction across 3 AI video providers with different schemas — swap providers without touching application code
 
 `Next.js 16` `Cloudflare Edge` `Google Gemini` `R2 Storage` `FFmpeg WASM`
 
