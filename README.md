@@ -1,30 +1,48 @@
-# 👋 Hi there, thanks for stopping by! 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%1e0f6497&size=30&width=800&lines=Hi!+I+am+Jazz+Lien.;Small+strides+make+great+journeys.)](https://git.io/typing-svg)
+# Jazz Lien
 
-I'm Jazz Lien, a Cloud Engineer specializing in Azure, AI solutions.
+**Full-Stack Builder · AI Product Engineer · Solutions Architect**
+**GCP Authorized Trainer · Indie Maker**
 
-## 📚 Continuous Learning
+I build AI-powered products and ship them. Every repo here is either live or launching soon.
 
-I believe in continuous learning and improvement, and one of the way to do that is by getting more certifications and practical experiences to further enhance my skills as a developer. 
+> [jazz-personal-website.pages.dev](https://jazz-personal-website.pages.dev/)
 
-I'm always on the lookout for new technologies and tools to learn, please share with me if you find anything interesting! 📈
+---
 
-## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,py,flask,linux,js,css,html&perline=3)](https://skillicons.dev)
+## Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jazzpujols34&theme=tokyonight)](https://git.io/streak-stats)
+### [拾光 Glimmer](https://glimmer.video/) — AI Memorial Videos
+Upload photos, pick a theme, get a cinematic video with music. Pay-per-use credits via ECPay.
+`Next.js 16` `Cloudflare Edge` `Google Gemini` `R2 Storage`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzpujols34&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### [Podsight](https://podsight.vercel.app/) — Podcast Intelligence
+Transcribes podcasts, generates AI summaries, and creates social-ready content for 6 platforms.
+`Python` `FastAPI` `Whisper` `Claude API`
 
+### [Jazz Gallery](https://jazz-gallery.onrender.com/) — AI Artwork Gallery
+Personal gallery with authentication, admin panel, and AI background removal.
+`React` `FastAPI` `Firestore` `Google Cloud Run`
 
-## 🤝 Let's Connect
+### [Articulate](https://github.com/jazzpujols34/articulate-mobile-app) — Vocabulary App
+Spaced repetition vocabulary builder with smart notifications. App Store submission pending.
+`React Native` `Expo` `TypeScript`
 
-- 📧 Email: [email](mailto:ro5112@hotmail.com)
-- 💼 LinkedIn: [Kuan-Chieh Lien](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/)
+### [Lucky Draw](https://lucky-draw-bice.vercel.app/) — Event Lottery
+Fair, animated, forfeit-proof winner selection for company events.
+`React` `Vite` `Tailwind CSS`
 
-I'm always open to collaborating on projects or just to chat about tech. 
+---
 
-Feel free to reach out to me!
+## Stack
 
+**Languages:** TypeScript, Python
+**Frontend:** React, Next.js, React Native, Tailwind CSS
+**Backend:** FastAPI, Node.js, SQLite, Firestore
+**AI:** Claude API, OpenAI, Google Gemini, Whisper
+**Deploy:** Cloudflare Pages, Vercel, Google Cloud Run, Expo
 
-Wish you a wonderful day! 😊
+---
+
+## Connect
+
+[Website](https://jazz-personal-website.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/) · [Email](mailto:ro5112@hotmail.com)
