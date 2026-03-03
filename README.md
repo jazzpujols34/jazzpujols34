@@ -12,6 +12,8 @@ I build AI-powered products and ship them.
 
 Foreign languages graduate turned cloud solutions architect turned indie maker. Spent years helping enterprises adopt GCP, then realized I'd rather build products than advise on them. Now I ship AI-powered tools — from video generation to podcast intelligence — end to end.
 
+Open to product engineering roles and collaborations on AI tooling.
+
 ---
 
 ## Featured Projects
@@ -20,7 +22,10 @@ Foreign languages graduate turned cloud solutions architect turned indie maker. 
 
 Upload photos, pick a theme, get a cinematic video with music. Pay-per-use credits via ECPay.
 
-Built a client-driven polling architecture for Cloudflare Edge (where background tasks die after 30s), FFmpeg WASM for in-browser video export with chunked processing to stay within memory limits, and a unified abstraction across 3 AI video providers with completely different schemas.
+Technical highlights:
+- Client-driven polling architecture for Cloudflare Edge, where background tasks die after 30s
+- FFmpeg WASM for in-browser video export with chunked processing to stay within memory limits
+- Unified abstraction across 3 AI video providers with completely different schemas
 
 `Next.js 16` `Cloudflare Edge` `Google Gemini` `R2 Storage` `FFmpeg WASM`
 
@@ -34,7 +39,7 @@ Fully automated pipeline: GitHub Actions fires twice daily → Whisper transcrip
 
 ### [Articulate](https://github.com/jazzpujols34/articulate-mobile-app) — Vocabulary App
 
-Spaced repetition vocabulary builder with smart notifications. App Store submission pending.
+Spaced repetition vocabulary builder with 1,000+ words and root-based decoding. App Store launch Q2 2026.
 
 `React Native` `Expo` `TypeScript`
 
