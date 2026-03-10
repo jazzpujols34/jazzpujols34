@@ -4,7 +4,7 @@
 
 I build AI-powered products and ship them.
 
-> [jazz-personal-website.pages.dev](https://jazz-personal-website.pages.dev/)
+> [jazzlien.com](https://jazzlien.com/)
 
 ---
 
@@ -45,6 +45,8 @@ Spaced repetition vocabulary builder with 1,000+ words and root-based decoding. 
 
 **Other experiments:** [Jazz Gallery](https://jazz-gallery.onrender.com/) — AI artwork gallery with auth and admin panel &ensp;·&ensp; [Lucky Draw](https://lucky-draw-bice.vercel.app/) — event lottery for company events
 
+> **[Project Presentations](https://jazzpujols34.github.io/jazz-presentations/)** — Slide decks with detailed explanations of each project's architecture and design decisions.
+
 ---
 
 ## Stack
@@ -59,4 +61,4 @@ Spaced repetition vocabulary builder with 1,000+ words and root-based decoding. 
 
 ## Connect
 
-[Website](https://jazz-personal-website.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/)
+[Website](https://jazzlien.com/) · [Presentations](https://jazzpujols34.github.io/jazz-presentations/) · [LinkedIn](https://www.linkedin.com/in/kuan-chieh-lien-0105451b5/)
