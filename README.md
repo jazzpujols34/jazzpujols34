@@ -43,6 +43,17 @@ Spaced repetition vocabulary builder with 1,000+ words and root-based decoding. 
 
 `React Native` `Expo` `TypeScript`
 
+### [post-to-visual](https://github.com/jazzpujols34/post-to-visual) — Article → Illustrated HTML
+
+Turns any article or post into a single-file, illustrated, easy-read HTML page (圖文好讀版). A pipeline and toolkit, not a template. Open source.
+
+Technical highlights:
+- Dependency-free static verifier that catches the bugs hand-review misses — dead anchors, non-absolute Open Graph URLs, dark-mode contrast traps, JPEG bytes in a `.png`
+- 8 themeable light/dark-safe SVG diagram recipes plus a palette generator that guarantees white-text contrast ≥4:1 in both themes
+- Works with zero API keys (SVG-only mode is first-class); a standalone `p2v` CLI scaffolds, generates, and checks pages
+
+`Python` `Vanilla JS` `SVG` `Claude Code skill`
+
 **Other experiments:** [Jazz Gallery](https://jazz-gallery.onrender.com/) — AI artwork gallery with auth and admin panel &ensp;·&ensp; [Lucky Draw](https://lucky-draw-bice.vercel.app/) — event lottery for company events
 
 > **[Project Presentations](https://jazzpujols34.github.io/jazz-presentations/)** — Slide decks with detailed explanations of each project's architecture and design decisions.
