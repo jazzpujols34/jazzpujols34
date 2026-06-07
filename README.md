@@ -10,7 +10,7 @@ I build AI-powered products and ship them.
 
 ## About
 
-Foreign languages graduate turned cloud solutions architect turned indie maker. Spent years helping enterprises adopt GCP, then equipped myself with AI tools and knowledge and build products stuck in my head for a lont time. Now I ship AI-powered tools — from video generation to podcast intelligence — end to end.
+Foreign languages graduate turned cloud solutions architect turned indie maker. Spent years helping enterprises adopt GCP, then equipped myself with AI tools and knowledge and built products stuck in my head for a long time. Now I ship AI-powered tools — from video generation to podcast intelligence — end to end.
 
 Open to product engineering, training roles and collaborations on AI tooling.
 
