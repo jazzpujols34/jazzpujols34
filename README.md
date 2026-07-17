@@ -29,7 +29,7 @@ Technical highlights:
 
 `Next.js 16` `Cloudflare Edge` `Google Gemini` `R2 Storage` `FFmpeg WASM`
 
-### [Podsight](https://podsight.vercel.app/) — Podcast Intelligence
+### [Podsight](https://podsight.tw/) — Podcast Intelligence
 
 Processes 3 Taiwan finance podcasts daily — 100+ episodes transcribed, summarized, and auto-published to a Telegram channel with zero manual intervention.
 
@@ -60,7 +60,7 @@ Self-contained skills for Claude Code, each pulled from real production work and
 Technical highlights:
 - A publish gate (`check-skill.sh`) scans every skill for hardcoded secrets and personalization before it ships — nothing reaches users pointing at private paths or keys
 - Generated catalog (`catalog.json` + README) that can't drift from the skills; `AGENTS.md` + `llms.txt` make the repo machine-readable for AI tools
-- 10 skills across the full build → ship → grow arc: SVG diagrams, test-first discipline, debug-loop breaking, teaching mode, in-page annotation, browser-verify UI changes end-to-end, secret scanning, deploy checks, SEO, growth
+- 11 skills across the full build → ship → grow arc: SVG diagrams, test-first discipline, bounded goal-driven execution, debug-loop breaking, teaching mode, in-page annotation, browser-verify UI changes end-to-end, secret scanning, deploy checks, SEO, growth
 
 `Bash` `Python` `Claude Code skills` `Open source`
 
